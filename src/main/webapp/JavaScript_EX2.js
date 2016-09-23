@@ -11,16 +11,16 @@ document.getElementById("hej3").style.backgroundColor = "green";
 function Loop(){
     
     var Persons = 
-        [{Name :"Yunas", Last:"Sara", Phone:50208545, Email:"hej1@gmail.com"}
-    , {Name :"Ayub", Last:"Mohamed", Phone:53667688, Email:"hej2@gmail.com"},
-    {Name :"Omar", Last:"El-louanzari", Phone:49263919, Email:"hej3@gmail.com"}];
+        [{Name :"asd", Last:"asd", Phone:50208545, Email:"asdahscb@gmail.com"}
+    , {Name :"dasd", Last:"fghf", Phone:53667688, Email:"hzc2@gmail.com"},
+    {Name :"Omar", Last:"gangster", Phone:49263919, Email:"hej3@gmail.com"}];
 
 }
 function InsertTable(){
  var Persons = 
-        [{Name :"Yunas", Last:"Sara", Phone:50208545, Email:"hej1@gmail.com"}
-    , {Name :"Ayub", Last:"Mohamed", Phone:53667688, Email:"hej2@gmail.com"},
-    {Name :"Omar", Last:"El-louanzari", Phone:49263919, Email:"hej3@gmail.com"}];
+        [{Name :"asdzxc", Last:"xcv", Phone:50208545, Email:"hej1@gmail.com"}
+    , {Name :"xcvn", Last:"xcv", Phone:53667688, Email:"hej2@gmail.com"},
+    {Name :"xcjnxc", Last:"El-xcv", Phone:49263919, Email:"hej3@gmail.com"}];
     var myTableDiv = document.getElementById("myDynamicTable");
  var table = document.createElement('TABLE');
     table.border='1';
